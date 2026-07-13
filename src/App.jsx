@@ -1,10 +1,10 @@
-import { BrowserRouter } from "react-router-dom";
+import PageLayout from "./layouts/PageLayout";
 import AppRoutes from "./routes/AppRoutes";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <PageLayout>
       <AppRoutes />
-    </BrowserRouter>
+    </PageLayout>
   );
 }
