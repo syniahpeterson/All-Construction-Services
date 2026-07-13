@@ -1,0 +1,46 @@
+:root {
+
+  /* Brand */
+
+  --color-primary:
+  --color-primary-hover:
+
+  --color-secondary:
+
+  --color-accent:
+
+  /* Surfaces */
+
+  --color-background:
+  --color-surface:
+  --color-surface-light:
+
+  /* Text */
+
+  --color-text:
+  --color-text-muted:
+
+  /* Borders */
+
+  --color-border:
+
+  /* Radius */
+
+  --radius-sm:
+  --radius-md:
+  --radius-lg:
+  --radius-xl:
+
+  /* Shadows */
+
+  --shadow-sm:
+  --shadow-md:
+  --shadow-lg:
+
+  /* Animation */
+
+  --transition-fast:
+  --transition-normal:
+  --transition-slow;
+
+}
