@@ -17,10 +17,10 @@ const variants = {
 };
 
 const sizes = {
-  sm: "h-9 px-4 text-sm",
-  md: "h-11 px-6 text-base",
-  lg: "h-12 px-8 text-lg",
-  xl: "h-14 px-10 text-lg",
+  sm: "h-9 px-3 text-sm whitespace-nowrap",
+  md: "h-11 px-6 text-base whitespace-nowrap",
+  lg: "h-12 px-6 text-base whitespace-nowrap sm:px-8 sm:text-lg",
+  xl: "h-14 px-8 text-lg whitespace-nowrap",
 };
 
 export default function Button({

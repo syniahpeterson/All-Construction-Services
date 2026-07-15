@@ -1,3 +1,10 @@
+import { Hero, TrustBar } from "../components/sections";
+
 export default function Home() {
-  return <></>;
+  return (
+    <>
+      <Hero />
+      <TrustBar />
+    </>
+  );
 }

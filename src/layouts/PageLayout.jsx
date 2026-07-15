@@ -5,7 +5,7 @@ export default function PageLayout({ children }) {
     <>
       <Navbar />
 
-      <main className="pt-[88px]">{children}</main>
+      <main className="pt-[88px] pb-8">{children}</main>
     </>
   );
 }
